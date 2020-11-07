@@ -7,19 +7,5 @@
             "image": "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f993.png",
             "name": "Zebra Share 0"
         },
-        {
-            "id": 1,
-            "description": "Zebra",
-            "external_url": "",
-            "image": "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f993.png",
-            "name": "Zebra Share 1"
-        },
-        {
-            "id": 2,
-            "description": "Zebra",
-            "external_url": "",
-            "image": "https://twemoji.maxcdn.com/v/13.0.1/72x72/1f993.png",
-            "name": "Zebra Share 2"
-        }
     ]
 }
