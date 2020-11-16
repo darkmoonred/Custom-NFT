@@ -1,2 +1,2 @@
-# customnft
-Custom NFT
+# custom nft
+Custom NFT Token
